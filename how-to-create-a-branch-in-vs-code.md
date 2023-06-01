@@ -1,4 +1,4 @@
-# How to create a branch in VS code?
+# 😀 How to create a branch in VS code?
 
 click "main" in the bottom left corner -> in the top right corner,&#x20;
 

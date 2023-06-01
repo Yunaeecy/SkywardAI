@@ -2,3 +2,4 @@
 
 * [🤗 How to use GitHub Desktop](README.md)
 * [😀 How to create a branch in VS code?](how-to-create-a-branch-in-vs-code.md)
+* [😞 How to debug?](how-to-debug.md)
