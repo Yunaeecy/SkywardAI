@@ -86,7 +86,7 @@ In this case, the function name "factorial" does not conform to the <mark style=
 
 ### how to edit the code?
 
-```
+```python
 def calculate_factorial(n):
         if n == 0: 
               return 1 
@@ -98,9 +98,54 @@ print(f"The factorial of {input_num} is {calculate_factorial(input_num)}")
 #Add an empty line at the end
 ```
 
+## Today's real code:
+
+```python
+name: Pylint
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.8", "3.9", "3.10"]
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v3
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pylint
+    - name: Analysing the code with pylint
+      run: |
+        pylint $(git ls-files '*.py')
+```
 
 
 
+\
+The provided code appears to be a GitHub Actions workflow file written in YAML syntax. It defines a workflow named "Pylint" that runs when a push event occurs in the repository. Let's break down the different sections and steps of the workflow:
+
+* **name**: Specifies the name of the workflow, which is "Pylint".
+* **on**: Defines the trigger event that starts the workflow. In this case, the workflow runs when a push event occurs.
+* **jobs**: Contains the definition of one or more jobs that should be executed as part of the workflow.
+  * **build**: Defines a job named "build".
+    * **runs-on**: Specifies the type of machine or environment on which the job runs. In this case, it runs on "ubuntu-latest".
+    * **strategy**: Allows configuring a matrix of different job configurations. Here, it defines the "python-version" matrix with multiple Python versions.
+    * **steps**: Contains a list of individual steps to be executed as part of the job.
+      * **uses**: Fetches the latest repository code using the `actions/checkout` action.
+      * **name**: Provides a name for the step, which is "Set up Python" followed by the Python version from the matrix.
+      * **uses**: Installs the specified Python version using the `actions/setup-python` action.
+      * **with**: Specifies the configuration for the `actions/setup-python` action, setting the Python version based on the matrix value.
+      * **name**: Names the step "Install dependencies".
+      * **run**: Runs the specified commands within the runner environment. In this case, it upgrades pip and installs the pylint package.
+      * **name**: Names the step "Analysing the code with pylint".
+      * **run**: Executes the `pylint` command on the Python files (`*.py`) in the repository using `git ls-files`.
 
 
 
