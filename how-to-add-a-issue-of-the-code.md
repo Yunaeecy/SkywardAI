@@ -4,6 +4,10 @@
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-02 at 6.28.08 pm.png" alt=""><figcaption></figcaption></figure>
 
-Assign tasks to sb.->Labels:choose the exact one ->open branch with GitHub Desktop.
+2.Assign tasks to sb.->Labels:choose the exact one ->open branch with GitHub Desktop.
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-02 at 6.01.25 pm.png" alt=""><figcaption></figcaption></figure>
+
+3.Now click "Open in VS code" not "Preview Pull Request"
+
+<figure><img src=".gitbook/assets/Screenshot 2023-06-02 at 6.02.08 pm.png" alt=""><figcaption></figcaption></figure>
