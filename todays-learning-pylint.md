@@ -84,7 +84,25 @@ In this case, the function name "factorial" does not conform to the <mark style=
 
 
 
+### how to edit the code?
 
+def calculate\_factorial(n):
+
+&#x20;       if n == 0:&#x20;
+
+&#x20;             return 1&#x20;
+
+&#x20;      else:&#x20;
+
+&#x20;             return n \* calculate\_factorial(n-1)
+
+input\_num = 5&#x20;
+
+print(f"The factorial of {input\_num} is {calculate\_factorial(input\_num)}")
+
+
+
+<mark style="color:green;">#Add an empty line at the end</mark>
 
 
 
