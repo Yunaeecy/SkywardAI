@@ -39,3 +39,13 @@
 <figure><img src=".gitbook/assets/Screenshot 2023-06-02 at 2.29.33 pm.png" alt="" width="344"><figcaption></figcaption></figure>
 
 </div>
+
+5.Click "Open in VD code" ->choose one of the left that you want to edit.
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/Screenshot 2023-06-02 at 2.39.31 pm.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+&#x20;
