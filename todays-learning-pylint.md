@@ -14,39 +14,39 @@ Overall, Pylint is a valuable tool for Python developers to maintain code qualit
 
 ## An example
 
+```python
 def factorial(n):
-
-&#x20;    if n==0:
-
-&#x20;        return 1
-
-&#x20;    else:
-
-&#x20;       return n\* factorial(n-1)
-
+     if n==0:
+         return 1
+     else:
+        return n* factorial(n-1)
 num = 5
-
 print(f"The factorial of {num} is {factorial(num)})
+```
+
+
 
 
 
 To run Pylint on this file, you can use the following commond in your terminal or command prompt:
 
-<mark style="color:purple;">**pylint example.py**</mark>
+```
+pylint example.py
+
+```
 
 <mark style="color:purple;">After running this command, Pylint will analyze the code and provide a report with feedback. The report might include information about potential errors, style violations, and code smells. Here's simplified example of the Pylint report for the given code:</mark>
 
-\*\*\*\*\*\*\*\*\*\*Modle example
-
-example.py:2:0: C0103: Function name "factorial" doesn't confirm to snake\_case naming style (invalid-name)
-
+```python
+**********Modle example
+example.py:2:0: C0103: Function name "factorial" doesn't confirm to snake_case naming style (invalid-name)
 examle.py:4:4: w0108: Redefining name 'num' from outer scope (redefined-outer-name)
-
 example.py:6:16: C0304: Final newline missing (missing-fnal-newline)
-
-\-------------------------
-
+-------------------------
 Your code has been rated at 7.5/10
+```
+
+
 
 In this example, Pylint has flagged a few issues. It has identified that the function name "factorial" does not follow the snake\_case naming convention, suggested by the code's style guidlines. It has also indicated that the variable "num" is being redefined within the code, which might lead to confusion or unintended behavior. Lastly, it has notified that there is no final newline at the end of the file, which is recommended for better readability.
 
@@ -86,23 +86,21 @@ In this case, the function name "factorial" does not conform to the <mark style=
 
 ### how to edit the code?
 
-def calculate\_factorial(n):
+```
+def calculate_factorial(n):
+        if n == 0: 
+              return 1 
+       else: 
+              return n * calculate_factorial(n-1)
+input_num = 5 
+print(f"The factorial of {input_num} is {calculate_factorial(input_num)}")
 
-&#x20;       if n == 0:&#x20;
-
-&#x20;             return 1&#x20;
-
-&#x20;      else:&#x20;
-
-&#x20;             return n \* calculate\_factorial(n-1)
-
-input\_num = 5&#x20;
-
-print(f"The factorial of {input\_num} is {calculate\_factorial(input\_num)}")
+#Add an empty line at the end
+```
 
 
 
-<mark style="color:green;">#Add an empty line at the end</mark>
+
 
 
 
