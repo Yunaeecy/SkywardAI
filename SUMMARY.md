@@ -7,3 +7,4 @@
 * [🐯 How to review in GutHub?](how-to-review-in-guthub.md)
 * [🐹 How to edit code?](how-to-edit-code.md)
 * [🙉 How to use AI to learn something that you don't know?](how-to-use-ai-to-learn-something-that-you-dont-know.md)
+* [🤪 Today's learning--Pylint](todays-learning-pylint.md)
