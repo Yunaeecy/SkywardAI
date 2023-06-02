@@ -10,3 +10,4 @@
 * [🤪 Today's learning--Pylint](todays-learning-pylint.md)
 * [😫 What should do after editing the code of one branch?](what-should-do-after-editing-the-code-of-one-branch.md)
 * [🥲 How to add a issue of the code?](how-to-add-a-issue-of-the-code.md)
+* [🤩 Mark something](mark-something.md)
