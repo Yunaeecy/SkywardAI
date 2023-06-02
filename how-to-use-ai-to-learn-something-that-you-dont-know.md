@@ -1,4 +1,4 @@
-# How to use AI to learn something that you don't know?
+# 🙉 How to use AI to learn something that you don't know?
 
 1.Find the key word of the code.
 
