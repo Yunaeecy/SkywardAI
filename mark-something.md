@@ -12,4 +12,4 @@ command+click the link you want to go, and you will just go to the link
 
 command+Tab : switch the different windows
 
-in terminal, when you want to "take check", just click the "up" botton, and click "enter" botton
+in terminal, when you want to "take check", just click the "up" button, and click "enter" button
