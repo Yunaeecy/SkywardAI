@@ -63,3 +63,44 @@ from langchain.schema import(
 chat = ChatOpenAI(temperature=0)
 ```
 
+You can get completions by passing in a single message.
+
+```python
+chat([HumanMessage(content="Translate this setence from English to French. I love programming.")])
+# -> AIMessage(content="J'aime programmer.", additional_kwargs={})
+```
+
+You can also pass in multiple messages for OpenAI's gpt-3.5-<mark style="color:blue;">**turbo**</mark> and gpt-4 models.
+
+```python
+messages= [
+    SystemMessage(content="You are a helpful assitant that translates English to French."),
+    HumanMessage(content="I love programming.")
+]
+chat(message)
+# -> AIMessage(content="J'aime programmer.", additional_kwargs={})
+```
+
+You can go one step further and generate completions for multiple sets of messages using <mark style="color:red;">**generate**</mark>. This returns an <mark style="color:red;">**LLMResult**</mark> with an additional message parameter:
+
+```python
+batch_message = [
+    [
+        SystemMessage(content="You are a helpful assistant that translates English to French."),
+        HumanMessage(content="I love programming.")
+    ],
+    [
+        SystemMessage(content="You are a helpful assistant that translates English to French."),
+        HumanMessage(content="I love aitificial intelligence.")
+    ],
+]
+result = chat.generate(batch_messages)
+result
+# ->LLMResult(generations=[[ChatGeneration(text="J'aime programmer.",
+generation_info=None, message=AIMessage(content="J'aime programmer.',
+additional_kwargs={}))], [ChatGeneration(text="J'aime l'intelligence artificielle.", generation_info=None, message=AIMessage(content="J'aime l'intelligence artificielle.", additional_kwargs={}))]], llm_output={'token_usage':
+{'prompt_tokens': 57, 'completion_token': 20, 'total_token': 77}})
+```
+
+
+
