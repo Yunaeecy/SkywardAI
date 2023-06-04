@@ -12,3 +12,4 @@
 * [🥲 How to add a issue of the code?](how-to-add-a-issue-of-the-code.md)
 * [🤩 Mark something](mark-something.md)
 * [🐷 Today's learning](todays-learning.md)
+* [🐯 What is 'token' and 'turbo'?](what-is-token-and-turbo.md)
