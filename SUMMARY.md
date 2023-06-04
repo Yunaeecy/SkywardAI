@@ -13,3 +13,4 @@
 * [🤩 Mark something](mark-something.md)
 * [🐷 Today's learning--LangChain](todays-learning.md)
 * [🐯 What is 'token' and 'turbo'?](what-is-token-and-turbo.md)
+* [🦋 LLM Parameters Demystified](llm-parameters-demystified.md)
