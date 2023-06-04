@@ -2,7 +2,11 @@
 description: LangChain
 ---
 
-# 🐷 Today's learning
+# 🐷 Today's learning--LangChain
+
+{% hint style="info" %}
+[https://python.langchain.com/en/latest/getting\_started/getting\_started.html](https://python.langchain.com/en/latest/getting\_started/getting\_started.html)
+{% endhint %}
 
 ```python
 

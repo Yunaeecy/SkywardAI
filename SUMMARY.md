@@ -11,5 +11,5 @@
 * [😫 What should do after editing the code of one branch?](what-should-do-after-editing-the-code-of-one-branch.md)
 * [🥲 How to add a issue of the code?](how-to-add-a-issue-of-the-code.md)
 * [🤩 Mark something](mark-something.md)
-* [🐷 Today's learning--LangChain](todays-learning-langchain.md)
+* [🐷 Today's learning--LangChain](todays-learning.md)
 * [🐯 What is 'token' and 'turbo'?](what-is-token-and-turbo.md)
