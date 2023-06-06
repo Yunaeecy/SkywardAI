@@ -13,4 +13,4 @@ the former specifies <mark style="color:purple;">**the return type**</mark> of t
 
 ## Difference between "list" and "dictionary"
 
-A <mark style="color:red;">**list\[]**</mark> is an ordered collection of elements, and each element can be accessed using its index. A <mark style="color:red;">**dictionary{}**</mark>, on the other hand, is an unordered collection of key-value pairs, and each value can be accessed using its key.
+A <mark style="color:red;">**list\[]**</mark> is an _**ordered**_ collection of elements, and each element can be accessed using its index. A <mark style="color:red;">**dictionary{}**</mark>, on the other hand, is an _**unordered**_ collection of key-value pairs, and each value can be accessed using its key.
