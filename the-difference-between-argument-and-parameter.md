@@ -10,3 +10,7 @@ In summary, a **parameter** is a variable that is **defined in a function**, whi
 ## "def display\_results(self) -> None:" and "def display\_results(self):"
 
 the former specifies <mark style="color:purple;">**the return type**</mark> of the function, while the latter does not. **The "-> None"** in the first example indicates that the function <mark style="color:green;">**does not return anything.**</mark>
+
+## Difference between "list" and "dictionary"
+
+A <mark style="color:red;">**list\[]**</mark> is an ordered collection of elements, and each element can be accessed using its index. A <mark style="color:red;">**dictionary{}**</mark>, on the other hand, is an unordered collection of key-value pairs, and each value can be accessed using its key.
