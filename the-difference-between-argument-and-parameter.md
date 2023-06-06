@@ -14,3 +14,9 @@ the former specifies <mark style="color:purple;">**the return type**</mark> of t
 ## Difference between "list" and "dictionary"
 
 A <mark style="color:red;">**list\[]**</mark> is an _**ordered**_ collection of elements, and each element can be accessed using its index. A <mark style="color:red;">**dictionary{}**</mark>, on the other hand, is an _**unordered**_ collection of key-value pairs, and each value can be accessed using its key.
+
+## print(title\[:-1]).     \[-1] in python
+
+In Python, "print(title\[:-1])" means to print the "title" string without its last character.&#x20;
+
+The **square brackets\[]** are used to <mark style="color:blue;">slice the string,</mark> and the <mark style="color:red;">**colon:**</mark> inside the brackets indicates that we want to slice the string. The ":-1" part of the code specifies the range of the slice, where the first colon indicates the start of the slice, and the "-1" indicates the end of the slice. In Python, <mark style="color:green;">**negative indices**</mark> are used to <mark style="color:orange;">count from the end of the string,</mark> so "-1" refers to the last character of the string. Therefore, _**"title\[:-1]" returns a new string that contains all the characters of the "title" string except for the last one.**_ Finally, the "print()" function is used to display the resulting string on the console.
