@@ -68,6 +68,20 @@ Top-p is more dynamic than top-k and is often used to exclude outputs with lower
 
 ### Stop Sequences <a href="#stop-sequences" id="stop-sequences"></a>
 
+{% hint style="info" %}
+[https://txt.cohere.com/llm-parameters-best-outputs-language-ai/](https://txt.cohere.com/llm-parameters-best-outputs-language-ai/)
+{% endhint %}
+
+A stop sequence is a string that tells the model to step generating more content. It is another way to control how long your output is.
+
+So, for example, if I prompt the model with "The sky is" and I enter a full stop (.) as a stop sequence, the model stops generating text once it reaches the end of the sentence, even if the number of tokens limit is much higher.
+
+This pairs well with prompts where you include a couple of examples. So let's add an example, when you generate text in a certain pattern, you add a certain string to the examples, and then use that string as a stop sequence.
+
+<figure><img src=".gitbook/assets/Screen Shot 2022-07-19 at 10.48.19 AM.png" alt=""><figcaption></figcaption></figure>
+
+In this example, when you want to stop after genarating a <mark style="color:red;">**hashtag**</mark>. You don't want it to keeping going and generate new posts and hashtags. So, you can split the examples with the string'--' and use that as your stop sequence. By try this in the <mark style="color:red;">**Cohere**</mark> playground with and without the stop sequence.
+
 
 
 [^1]: 
