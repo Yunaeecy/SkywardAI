@@ -7,6 +7,14 @@ Arguments and parameters are two terms that are often used interchangeably, but 
 
 In summary, a **parameter** is a variable that is **defined in a function**, while an <mark style="color:red;">**argument**</mark> is the value that is <mark style="color:red;">**passed to that parameter when the function is called**</mark>.
 
+## def gpa(self,student\_id:str) -> float:
+
+The function definition "def gpa(self, student\_id:str) -> float" means that it is a Python function that takes in <mark style="color:green;">**two arguments**</mark>: "self" and "student\_id", where "<mark style="color:red;">**self**</mark>" refers to <mark style="color:red;">the instance of the class</mark> and "student\_id" is a string argument. The "-> float" part of the definition specifies that the function returns <mark style="color:green;">**a floating-point number (a decimal number)**</mark>. In other words, the function calculates and _<mark style="color:red;">returns</mark>_ the GPA (grade point average) of the student with the given ID.&#x20;
+
+## What is the purpose of the "self" parameter in Python class methods
+
+In Python, the "self" parameter is used in class methods to refer to the instance of the class[1](https://www.programiz.com/article/python-self-why)[2](https://www.geeksforgeeks.org/self-in-python-class/)[3](https://www.edureka.co/blog/self-in-python/)[4](https://www.w3schools.com/python/gloss\_python\_self.asp). It is always the first parameter in a method definition and is passed implicitly when the method is called on an instance of the class[1](https://www.programiz.com/article/python-self-why)[2](https://www.geeksforgeeks.org/self-in-python-class/)[3](https://www.edureka.co/blog/self-in-python/). The "self" parameter **allows access to the attributes and methods of the class within the method**[1](https://www.programiz.com/article/python-self-why)[2](https://www.geeksforgeeks.org/self-in-python-class/)[3](https://www.edureka.co/blog/self-in-python/). It is used to **differentiate between instance variables and local variables within the method**[5](https://www.knowledgehut.com/blog/programming/self-variabe-python-examples). The use of "self" makes the code more readable and explicit, as it clearly indicates that the method is being called on an instance of the class
+
 ## "def display\_results(self) -> None:" and "def display\_results(self):"
 
 the former specifies <mark style="color:purple;">**the return type**</mark> of the function, while the latter does not. **The "-> None"** in the first example indicates that the function <mark style="color:green;">**does not return anything.**</mark>
