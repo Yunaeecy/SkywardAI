@@ -17,3 +17,4 @@
 * [🍒 The difference between argument and parameter](the-difference-between-argument-and-parameter.md)
 * [🍒 What is hashtag?](what-is-hashtag.md)
 * [🍒 What is Cohere playground?](what-is-cohere-playground.md)
+* [🍍 "{:.2f}"](.2f.md)
