@@ -9,8 +9,8 @@
 
 ## 🥰 GitHub
 
-* [🐹 How to edit code?](github/how-to-edit-code.md)
-* [🤗 How to use GitHub Desktop](<README (1).md>)
+* [🐹 How to edit code?](how-to-edit-code.md)
+* [🤗 How to use GitHub Desktop](<README (1) (1).md>)
 * [🐯 How to review in GutHub?](how-to-review-in-guthub.md)
 * [Page 1](github/page-1.md)
 
@@ -29,12 +29,12 @@
 
 ## 🌶 Mark something that easily to forget
 
-* [🤩 Mark something](mark-something-that-easily-to-forget/mark-something.md)
+* [🤩 Mark something](mark-something.md)
 * [🫑 How to edit cover picture from "Flickr" using "URL" in GitBook?](mark-something-that-easily-to-forget/how-to-edit-cover-picture-from-flickr-using-url-in-gitbook.md)
 
 ## ⚓ VS Code
 
-* [😫 What should do after editing the code of one branch?](vs-code/what-should-do-after-editing-the-code-of-one-branch.md)
-* [😀 How to create a branch in VS code?](vs-code/how-to-create-a-branch-in-vs-code.md)
-* [😞 How to debug?](vs-code/how-to-debug.md)
+* [😫 What should do after editing the code of one branch?](what-should-do-after-editing-the-code-of-one-branch.md)
+* [😀 How to create a branch in VS code?](<README (1).md>)
+* [😞 How to debug?](how-to-debug.md)
 * [Page 4](vs-code/page-4.md)

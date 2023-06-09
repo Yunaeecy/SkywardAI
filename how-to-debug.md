@@ -12,6 +12,6 @@ Click “run and debug”-> the green button&#x20;
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/IMG_6624.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_6624.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
