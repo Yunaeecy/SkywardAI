@@ -11,13 +11,13 @@ Step by step:
 1. Find your project
 2. Click "code"-> Open withGitHub Desktop
 
-<img src="../.gitbook/assets/IMG_6618.JPG" alt="" data-size="original">
+<img src=".gitbook/assets/IMG_6618.JPG" alt="" data-size="original">
 
 3. "Clone a Repository"-> choose your local path to store it-> "Clone"
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/IMG_6619.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_6619.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -29,7 +29,7 @@ Click the button " Open in Visual Studio Code"
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/IMG_6621.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_6621.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -39,7 +39,7 @@ Open GitHub Desktop, click " Respository" -> "Remove"
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/IMG_6620.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_6620.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

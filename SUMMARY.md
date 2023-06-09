@@ -14,19 +14,23 @@
 
 ## 🥰 GitHub
 
-* [🤗 How to use GitHub Desktop](github/how-to-use-github-desktop.md)
-* [🐯 How to review in GutHub?](github/how-to-review-in-guthub.md)
+* [🤗 How to use GitHub Desktop](<README (1).md>)
+* [🐯 How to review in GutHub?](how-to-review-in-guthub.md)
 * [Page 1](github/page-1.md)
 
 ## 🐷 Artificial Intelligence
 
-* [🐷 Today's learning--LangChain](artificial-intelligence/todays-learning-langchain.md)
-* [🦋 LLM Parameters Demystified](artificial-intelligence/llm-parameters-demystified.md)
-* [🍒 What is Cohere playground?](artificial-intelligence/what-is-cohere-playground.md)
+* [🐷 Today's learning--LangChain](todays-learning.md)
+* [🦋 LLM Parameters Demystified](llm-parameters-demystified.md)
+* [🍒 What is Cohere playground?](what-is-cohere-playground.md)
 * [Page 2](artificial-intelligence/page-2.md)
 
 ## 🪱 Python
 
-* [🍒 The difference between argument and parameter](python/the-difference-between-argument-and-parameter.md)
-* [🍍 "{:.2f}"](python/.2f.md)
+* [🍒 The difference between argument and parameter](the-difference-between-argument-and-parameter.md)
+* [🍍 "{:.2f}"](.2f.md)
 * [Page 3](python/page-3.md)
+
+## 🌶 Mark something that easily to forget
+
+* [🫑 How to edit cover picture from "Flickr" using "URL" in GitBook?](mark-something-that-easily-to-forget/how-to-edit-cover-picture-from-flickr-using-url-in-gitbook.md)

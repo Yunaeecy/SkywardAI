@@ -54,7 +54,7 @@ Top-k and Top-p are the two other ways to pick up the output token.
 
 Consider the input phrase - “The name of that country is the”. The next token could be “United”, “Netherlands”, “Czech”, and so on, with varying probabilities. There may be dozens of potential outputs with decreasing probabilities but if you <mark style="color:red;">set k as 3</mark>, you’re telling the model to only pick from <mark style="color:red;">the top 3 options</mark>.
 
-<figure><img src="../.gitbook/assets/top-k-decoding-strategy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/top-k-decoding-strategy.png" alt=""><figcaption></figcaption></figure>
 
 So if you ran the same prompt a bunch of times, you’ll get United very often, and you’ll get a smattering of Netherlands or Czech, but nothing else.
 
@@ -62,7 +62,7 @@ If you <mark style="color:red;">set k to 1</mark>, the model will only pick <mar
 
 <mark style="color:green;">**Top-p**</mark> is similar but picks from the top tokens based on the sum of their probabilities. So, for the previous example, if we set p as <mark style="color:green;">0.15</mark>, then it will only pick from United and Netherlands as their probabilities add up to 14.7%.
 
-<figure><img src="../.gitbook/assets/top-p-decoding-strategy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/top-p-decoding-strategy.png" alt=""><figcaption></figcaption></figure>
 
 Top-p is more dynamic than top-k and is often used to exclude outputs with lower probabilities. So if you set p to <mark style="color:green;">0.75</mark>, you <mark style="color:green;">exclude</mark> the <mark style="color:green;">bottom 25%</mark> of probable outputs.
 
@@ -78,7 +78,7 @@ So, for example, if I prompt the model with "The sky is" and I enter a full stop
 
 This pairs well with prompts where you include a couple of examples. So let's add an example, when you generate text in a certain pattern, you add a certain string to the examples, and then use that string as a stop sequence.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-07-19 at 10.48.19 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2022-07-19 at 10.48.19 AM.png" alt=""><figcaption></figcaption></figure>
 
 In this example, when you want to stop after genarating a <mark style="color:red;">**hashtag**</mark>. You don't want it to keeping going and generate new posts and hashtags. So, you can split the examples with the string'--' and use that as your stop sequence. By try this in the <mark style="color:red;">**Cohere**</mark> playground with and without the stop sequence.
 
