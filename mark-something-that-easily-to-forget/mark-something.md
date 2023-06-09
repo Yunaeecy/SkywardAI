@@ -20,4 +20,4 @@ in terminal, when you want to "take check", just click the "up" button, and clic
 
 <mark style="color:purple;">With two fingers click in the video of YouTube, then you can see "Loop"--> two finger click the video again --> click "</mark>Enter Picture in Picture"
 
-<figure><img src=".gitbook/assets/Screenshot 2023-06-09 at 12.24.37 am.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-06-09 at 12.24.37 am.png" alt="" width="375"><figcaption></figcaption></figure>

@@ -1,15 +1,7 @@
-# 😀 How to create a branch in VS code?
+# 😖 Install a project
 
-click "main" in the bottom left corner -> in the top right corner,&#x20;
+Common +j ->go to command line&#x20;
 
-choose "Create new branch" -> enter the name of your branch
+Go to “make file tools”-> print “make install “ in the command line&#x20;
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/Screenshot 2023-06-01 at 2.23.10 pm.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-<mark style="color:red;">**How to change the branch?**</mark>&#x20;
-
-\-click the branch name in the bottomm left corner.
+Only need once.安装只需要安一次。
