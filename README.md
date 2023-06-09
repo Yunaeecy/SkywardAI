@@ -1,45 +1,15 @@
-# 🤗 How to use GitHub Desktop
+# 😀 How to create a branch in VS code?
 
-{% hint style="info" %}
-Starting with **Download a project from GitHub**
-{% endhint %}
+click "main" in the bottom left corner -> in the top right corner,&#x20;
 
-## <mark style="color:blue;">How to clone a project to local environment?</mark>
-
-Step by step:
-
-1. Find your project
-2. Click "code"-> Open withGitHub Desktop
-
-<img src=".gitbook/assets/IMG_6618.JPG" alt="" data-size="original">
-
-3. "Clone a Repository"-> choose your local path to store it-> "Clone"
+choose "Create new branch" -> enter the name of your branch
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/IMG_6619.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-06-01 at 2.23.10 pm.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
+<mark style="color:red;">**How to change the branch?**</mark>&#x20;
 
-
-## <mark style="color:blue;">How to open the project you've downloaded from GitHub?</mark>
-
-Click the button " Open in Visual Studio Code"
-
-<div align="left">
-
-<figure><img src=".gitbook/assets/IMG_6621.JPG" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-## <mark style="color:blue;">How to remove a project using GitHub Desktop?</mark>
-
-Open GitHub Desktop, click " Respository" -> "Remove"
-
-<div align="left">
-
-<figure><img src=".gitbook/assets/IMG_6620.JPG" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
+\-click the branch name in the bottomm left corner.
