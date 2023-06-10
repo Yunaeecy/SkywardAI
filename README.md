@@ -2,7 +2,7 @@
 description: basic concept
 ---
 
-# 🍒 What is hashtag?
+# 🍒 What is hashtag#?
 
 In platforms like Twitter and Instagram, there are common user bases in the million. To help users navigate the platform more efficiently, many different trends and features merged. One of the most polular features of socila platforms is the hashtag, using it, you can find and jion conversations, share your opion and reach a wider audience while making content easier to find.&#x20;
 

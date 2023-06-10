@@ -108,3 +108,23 @@ additional_kwargs={}))], [ChatGeneration(text="J'aime l'intelligence artificiell
 
 
 
+## Chat Prompt Template
+
+Similar to LLMs, you can make use of templating by using a <mark style="color:red;">**MessagePromptTemplate**</mark>. You can build a <mark style="color:red;">**ChatPromptTemplate**</mark> from one or more <mark style="color:red;">**MessagePromptTemplate**</mark>s. You can use <mark style="color:red;">**ChatPromptTemplate**</mark>'s <mark style="color:red;">**format\_prompt**</mark>--this return a PromptValue, which you can use convert to a string or <mark style="color:red;">**Message**</mark> object, depending on whether you want to use the formatted value as input to an llm or chat model.
+
+For convenience, there is a <mark style="color:red;">**form\_template**</mark> method exposed on the template. If you were to use this template, this is what it would look like:
+
+```
+from langchain.chat_models import ChatOpenAI
+from langchain.prompt.chat import(
+    ChatPromptTemplate,
+    SystemMessagePromptTemplate,
+    HumanMessagePromptTemplate,
+)
+chat = ChatOpenAI(temperature=0)
+
+template = "You are a helpful assistant that translate {input_language} to {output_language}."
+system_message_prompt = SystemMessagePropmtTemplate.from_template(template)
+human_template = "{text}"
+human_message_prompt = HumanMessage
+```
