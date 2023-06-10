@@ -22,6 +22,6 @@ in terminal, when you want to "take check", just click the "up" button, and clic
 
 <figure><img src=".gitbook/assets/Screenshot 2023-06-09 at 12.24.37 am.png" alt="" width="375"><figcaption></figcaption></figure>
 
-command+s+3 -->screenshot full screen
+command+shift+3 -->screenshot full screen
 
-command+s+4 -->screenshot part screen
+command+shift+4 -->screenshot part screen
