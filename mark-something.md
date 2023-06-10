@@ -2,7 +2,7 @@
 description: This mode is just for myself.
 ---
 
-# 🤩 Mark something
+# 🙉 Mark something
 
 command+z : undo the action you just started
 

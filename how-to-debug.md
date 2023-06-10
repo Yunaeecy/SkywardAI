@@ -2,7 +2,7 @@
 description: How to launch a project?
 ---
 
-# 😞 How to debug?
+# ✖ How to debug?
 
 How to launch a project?
 

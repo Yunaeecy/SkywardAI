@@ -1,4 +1,4 @@
-# 😫 What should do after editing the code of one branch?
+# ✖ What should do after editing the code of one branch?
 
 After editing a code of one branch, you should change to the main branch and click "Pull origin"
 

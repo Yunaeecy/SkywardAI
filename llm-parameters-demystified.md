@@ -1,4 +1,4 @@
-# 🦋 LLM Parameters Demystified
+# ⚙ LLM Parameters Demystified
 
 {% hint style="info" %}
 [https://txt.cohere.com/llm-parameters-best-outputs-language-ai/](https://txt.cohere.com/llm-parameters-best-outputs-language-ai/)

@@ -1,4 +1,4 @@
-# 🤗 How to use GitHub Desktop
+# ✅ How to use GitHub Desktop
 
 {% hint style="info" %}
 Starting with **Download a project from GitHub**

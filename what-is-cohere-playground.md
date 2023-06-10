@@ -1,4 +1,4 @@
-# 🍒 What is Cohere playground?
+# ⚙ What is Cohere playground?
 
 {% hint style="info" %}
 [https://docs.cohere.com/docs/playground-overview](https://docs.cohere.com/docs/playground-overview)

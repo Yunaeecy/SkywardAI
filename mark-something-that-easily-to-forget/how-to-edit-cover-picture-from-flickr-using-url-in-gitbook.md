@@ -3,7 +3,7 @@ cover: https://live.staticflickr.com/65535/52961694814_da6304c797.jpg
 coverY: 0
 ---
 
-# 🫑 How to edit cover picture from "Flickr" using "URL" in GitBook?
+# 🙉 How to edit cover picture from "Flickr" using "URL" in GitBook?
 
 1.Add cover
 

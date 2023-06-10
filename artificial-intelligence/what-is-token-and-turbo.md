@@ -2,7 +2,7 @@
 description: some concepts~
 ---
 
-# 🐯 What is 'token' and 'turbo'?
+# ⚙ What is 'token' and 'turbo'?
 
 In the context of LLM, tokens are the <mark style="color:purple;">**basic units of text or code**</mark> that an LLM AI uses to process and generate language. Tokens can be characters, words, subwords, or other segments of text or code, depending on the chosen tokenization method or scheme. Tokenization is the process of **splitting the input and output texts into smaller units** that can be processed by the LLM AI models. Tokens are <mark style="color:purple;">**assigned numerical values or identifiers**</mark> and are arranged in sequences or vectors, and are fed into or outputted from the model. The number of tokens parameter allows you to set a limit to how many tokens are generated. The natural limit to **the number of tokens** the model can produce varies **depending on the model size**, with smaller models going up to 1024 and larger models going up to 2048. It is generaally recommended to generate in short bursts instead of one long burst to avoid the model going off in a direction you are not expecting.
 

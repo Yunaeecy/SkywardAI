@@ -1,4 +1,4 @@
-# 🐹 How to edit code?
+# ✅ How to edit code?
 
 1.After you have reviewed other's code. Click "Code" in the right bottom.
 
