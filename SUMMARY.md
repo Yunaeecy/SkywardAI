@@ -17,14 +17,14 @@
 * [⚙ Today's learning--LangChain](todays-learning.md)
 * [⚙ LLM Parameters Demystified](llm-parameters-demystified.md)
 * [⚙ What is Cohere playground?](what-is-cohere-playground.md)
-* [⚙ Creative QR Codes with ControlNet](artificial-intelligence/creative-qr-codes-with-controlnet.md)
+* [⚙ Creative QR Codes with ControlNet](artificial-intelligence/creative-qr-codes-with-controlnet/README.md)
+  * [⚙ Stable Diffusion](artificial-intelligence/creative-qr-codes-with-controlnet/stable-diffusion.md)
 
 ## 💞 Python
 
-* [🪱 Today's learning--Pylint](todays-learning-pylint.md)
 * [🪱 The difference between argument and parameter](the-difference-between-argument-and-parameter.md)
 * [🪱 "{:.2f}"](.2f.md)
-* [Page 3](python/page-3.md)
+* [🪱 Today's learning--Pylint](todays-learning-pylint.md)
 
 ## 💞 Mark something that easily to forget
 
