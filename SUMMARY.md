@@ -17,7 +17,7 @@
 * [⚙ Today's learning--LangChain](todays-learning.md)
 * [⚙ LLM Parameters Demystified](llm-parameters-demystified.md)
 * [⚙ What is Cohere playground?](what-is-cohere-playground.md)
-* [Page 2](artificial-intelligence/page-2.md)
+* [⚙ Creative QR Codes with ControlNet](artificial-intelligence/creative-qr-codes-with-controlnet.md)
 
 ## 💞 Python
 
