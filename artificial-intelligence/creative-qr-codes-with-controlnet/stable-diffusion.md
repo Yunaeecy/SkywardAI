@@ -12,3 +12,7 @@ Stable Diffusion is an advanced AI text-to-image synthesis algorithm that can ge
 &#x20;It is also good at mashing up concepts to create entirely novel images.&#x20;
 
 Stable Diffusion is entirely <mark style="color:red;">**open source**</mark>, and users can even train their own models based on their own dataset to get it to generate exactly the kind of images they want.
+
+#### ControlNet
+
+ControlNet is a neural network architecture designed to manage diffusion models by incorporating additional conditions. It duplicates the weights of neural network blocks into a "locked" copy and a "trainable" copy. The "trainable" copy learns the desired condition, while the "locked" copy preserves the original model. This approach ensures that training with small datasets of image pairs does not compromise the integrity of production-ready diffusion models. The "zero convolution" is a 1×1 convolution with both weight and bias initialized to zero. Before training, all zero convolutions produce zero output, preventing any distortion caused by ControlNet. No layer is trained from scratch; the process is still fine-tuning, keeping the original model secure. This method enables training on small-scale or even personal devices.
