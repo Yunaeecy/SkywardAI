@@ -22,6 +22,7 @@
   * [⚙ How to generate a QR Code](artificial-intelligence/creative-qr-codes-with-controlnet/how-to-generate-a-qr-code.md)
   * [⚙ This page to collect some prompt when you want to generate QR code with AI.](artificial-intelligence/creative-qr-codes-with-controlnet/this-page-to-collect-some-prompt-when-you-want-to-generate-qr-code-with-ai..md)
   * [⚙ clip skip](artificial-intelligence/creative-qr-codes-with-controlnet/clip-skip.md)
+  * [⚙ AUTOMATIC1111](artificial-intelligence/creative-qr-codes-with-controlnet/automatic1111.md)
 
 ## 💞 Python
 
