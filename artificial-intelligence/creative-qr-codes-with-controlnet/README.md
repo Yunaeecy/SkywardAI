@@ -1,5 +1,5 @@
 ---
-description: step by step from clone the project to generate the QR code
+description: step by step on how to generate your QR code with AI.
 ---
 
 # ⚙ Creative QR Codes with ControlNet
@@ -21,19 +21,19 @@ reference: [https://stable-diffusion-art.com/qr-code/#Japanese\_girl](https://st
 
 ## 1.Clone a project from GitHub
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 2.39.58 pm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 2.39.58 pm.png" alt=""><figcaption></figcaption></figure>
 
 ## 2.Open with GitHub Desktop. Click "Clone"
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 2.41.03 pm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 2.41.03 pm.png" alt=""><figcaption></figcaption></figure>
 
 ## 3.Install some "Plug-in-board", such as "resource".
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 2.46.58 pm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 2.46.58 pm.png" alt=""><figcaption></figcaption></figure>
 
 ## 4.Cick terminal input"make prepare" -->"enter"
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 3.37.10 pm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 3.37.10 pm.png" alt=""><figcaption></figcaption></figure>
 
 ## 5.In termal, input"make run" -->"enter"
 
@@ -49,7 +49,7 @@ Here are the prompt of Mechanical girl:
 
 **Upload the QR code to the img2img canvas.**
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 3.51.47 pm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 3.51.47 pm.png" alt=""><figcaption></figcaption></figure>
 
 Enter the following image-to-image settings.
 
@@ -61,11 +61,11 @@ Enter the following image-to-image settings.
 * **CFG Scale**: 7
 * **Denoising strength**: 0.75
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 3.54.32 pm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 3.54.32 pm.png" alt=""><figcaption></figcaption></figure>
 
 **Upload the QR code to ControlNet‘s image canvas.**
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 3.55.32 pm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 3.55.32 pm.png" alt=""><figcaption></figcaption></figure>
 
 **Enter the following ControlNet settings.**
 
@@ -77,7 +77,7 @@ Enter the following image-to-image settings.
 * **Starting Control Step**: 0.23
 * **Ending Control Step**: 0.9
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-06-12 at 3.56.52 pm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 3.56.52 pm.png" alt=""><figcaption></figcaption></figure>
 
 Press **Generate**. -->click"save" -->click"download"
 
@@ -87,10 +87,10 @@ Here are our outputs. High five\~\~\~
 
 <div>
 
-<figure><img src="../.gitbook/assets/00001-4244295426.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/00001-4244295426.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/00002-725946248.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/00002-725946248.png" alt=""><figcaption></figcaption></figure>
 
 </div>
