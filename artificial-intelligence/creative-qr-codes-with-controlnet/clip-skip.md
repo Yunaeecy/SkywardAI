@@ -20,6 +20,6 @@ You can imagine CLIP skip to basically be a setting for "<mark style="color:red;
 
 CLIP skip really becomes good when you use models that are structured in a special way. Like Booru models. Where "1girl" tag can break down too many sub tags that connect to that one major tag. Whether you get use of from clip skip is really just trial and error.
 
-Now keep in mind that CLIP skip only works in models that use CLIP and or are based on models that use CLIP. As in 1.x models and it's derivates. 2.0 models and it's derivates do not interact with CLIP because they use Open CLIP.
+Now keep in mind that CLIP skip **only works** in models that <mark style="color:orange;">**use CLIP and or are based on models that use CLIP**</mark>. As in 1.x models and it's derivates. 2.0 models and it's derivates do not interact with CLIP because they use Open CLIP.
 
 reference: [https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/5674](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/5674)
