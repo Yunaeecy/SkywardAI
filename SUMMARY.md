@@ -23,6 +23,7 @@
   * [⚙ Collect prompt](artificial-intelligence/creative-qr-codes-with-controlnet/collect-prompt.md)
   * [⚙ clip skip](artificial-intelligence/creative-qr-codes-with-controlnet/clip-skip.md)
   * [⚙ AUTOMATIC1111](artificial-intelligence/creative-qr-codes-with-controlnet/automatic1111.md)
+* [⚙ DALL-E](artificial-intelligence/dall-e.md)
 
 ## 💞 Python
 
