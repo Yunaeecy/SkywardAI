@@ -1,4 +1,8 @@
-# ⚙ This page to collect some prompt when you want to generate QR code with AI.
+---
+description: This page to collect some prompt when you want to generate QR code with AI.
+---
+
+# ⚙ Collect prompt
 
 ## Snow house
 
