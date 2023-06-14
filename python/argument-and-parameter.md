@@ -1,4 +1,8 @@
-# 🪱 The difference between argument and parameter
+---
+description: The difference between argument and parameter
+---
+
+# 🪱 argument & parameter
 
 Arguments and parameters are two terms that are often used interchangeably, but they have different meanings in programming. Here are the differences between argument and parameter:
 

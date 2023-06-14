@@ -26,7 +26,7 @@
 
 ## 💞 Python
 
-* [🪱 The difference between argument and parameter](the-difference-between-argument-and-parameter.md)
+* [🪱 argument & parameter](python/argument-and-parameter.md)
 * [🪱 "{:.2f}"](.2f.md)
 * [🪱 Today's learning--Pylint](todays-learning-pylint.md)
 
