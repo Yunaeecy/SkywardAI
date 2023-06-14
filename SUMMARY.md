@@ -14,7 +14,8 @@
 
 * [⚙ How to use AI to learn something that you don't know?](how-to-use-ai-to-learn-something-that-you-dont-know.md)
 * [⚙ What is 'token' and 'turbo'?](artificial-intelligence/what-is-token-and-turbo.md)
-* [⚙ Today's learning--LangChain](todays-learning.md)
+* [⚙ Today's learning--LangChain](artificial-intelligence/todays-learning-langchain/README.md)
+  * [⚙ Prompt](artificial-intelligence/todays-learning-langchain/prompt.md)
 * [⚙ LLM Parameters Demystified](llm-parameters-demystified.md)
 * [⚙ What is Cohere playground?](what-is-cohere-playground.md)
 * [⚙ Stable Diffusion](artificial-intelligence/creative-qr-codes-with-controlnet/stable-diffusion.md)
