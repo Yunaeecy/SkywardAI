@@ -7,6 +7,7 @@
   * [⚙ Collect prompt](artificial-intelligence/creative-qr-codes-with-controlnet/collect-prompt.md)
   * [⚙ clip skip](artificial-intelligence/creative-qr-codes-with-controlnet/clip-skip.md)
   * [⚙ AUTOMATIC1111](artificial-intelligence/creative-qr-codes-with-controlnet/automatic1111.md)
+  * [⚙ Page 4](artificial-intelligence/creative-qr-codes-with-controlnet/page-4.md)
 * [⚙ What is 'token' and 'turbo'?](artificial-intelligence/what-is-token-and-turbo.md)
 * [⚙ Today's learning--LangChain](artificial-intelligence/todays-learning-langchain/README.md)
   * [⚙ Prompt](artificial-intelligence/todays-learning-langchain/prompt.md)
@@ -15,7 +16,6 @@
 * [⚙ Stable Diffusion](artificial-intelligence/creative-qr-codes-with-controlnet/stable-diffusion.md)
 * [⚙ DALL-E](artificial-intelligence/dall-e.md)
 * [⚙ How to use AI to learn something that you don't know?](how-to-use-ai-to-learn-something-that-you-dont-know.md)
-* [Page 4](artificial-intelligence/page-4.md)
 * [Page 1](artificial-intelligence/page-1.md)
 * [🍒 What is hashtag#?](artificial-intelligence/what-is-hashtag.md)
 
