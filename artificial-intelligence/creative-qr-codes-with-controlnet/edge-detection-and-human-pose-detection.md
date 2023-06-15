@@ -1,7 +1,3 @@
----
-description: 'reference:  https://stable-diffusion-art.com/controlnet/#What_is_ControlNet'
----
-
 # ⚙ edge detection and human pose detection
 
 ControlNet can do: Controlling image generation with (1) edge detection and (2) human pose detection
@@ -27,6 +23,8 @@ The Canny edge detector extracts the edges of the subject and background alike. 
 OpenPose only detects human key points such as positions of the head, arms, etc. The image generation is more liberal but follows the original pose.
 
 
+
+{% embed url="https://stable-diffusion-art.com/controlnet/#What_is_ControlNet" %}
 
 
 
