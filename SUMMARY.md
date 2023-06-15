@@ -15,6 +15,8 @@
 * [⚙ Stable Diffusion](artificial-intelligence/creative-qr-codes-with-controlnet/stable-diffusion.md)
 * [⚙ DALL-E](artificial-intelligence/dall-e.md)
 * [⚙ How to use AI to learn something that you don't know?](how-to-use-ai-to-learn-something-that-you-dont-know.md)
+* [Page 4](artificial-intelligence/page-4.md)
+* [Page 1](artificial-intelligence/page-1.md)
 * [🍒 What is hashtag#?](artificial-intelligence/what-is-hashtag.md)
 
 ## 💞 GitHub
@@ -23,7 +25,6 @@
 * [✅ How to edit code?](how-to-edit-code.md)
 * [✅ How to use GitHub Desktop](<README (1) (1).md>)
 * [✅ How to review in GutHub?](how-to-review-in-guthub.md)
-* [Page 1](github/page-1.md)
 
 ## 💞 Python
 
@@ -42,4 +43,3 @@
 * [✖ What should do after editing the code of one branch?](what-should-do-after-editing-the-code-of-one-branch.md)
 * [✖ How to create a branch in VS code?](<README (1).md>)
 * [✖ How to debug?](how-to-debug.md)
-* [Page 4](vs-code/page-4.md)
