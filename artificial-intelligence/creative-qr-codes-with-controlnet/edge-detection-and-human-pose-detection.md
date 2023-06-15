@@ -1,4 +1,4 @@
-# ⚙ edge detection and human pose detection
+# ⚙ Edge detection and human pose detection
 
 ControlNet can do: Controlling image generation with (1) edge detection and (2) human pose detection
 
