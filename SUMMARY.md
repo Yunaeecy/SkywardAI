@@ -7,7 +7,7 @@
   * [⚙ Collect prompt](artificial-intelligence/creative-qr-codes-with-controlnet/collect-prompt.md)
   * [⚙ clip skip](artificial-intelligence/creative-qr-codes-with-controlnet/clip-skip.md)
   * [⚙ AUTOMATIC1111](artificial-intelligence/creative-qr-codes-with-controlnet/automatic1111.md)
-  * [⚙ Page 4](artificial-intelligence/creative-qr-codes-with-controlnet/page-4.md)
+  * [⚙ edge detection and human pose detection](artificial-intelligence/creative-qr-codes-with-controlnet/edge-detection-and-human-pose-detection.md)
 * [⚙ Stable Diffusion](artificial-intelligence/creative-qr-codes-with-controlnet/stable-diffusion.md)
 * [⚙ What is 'token' and 'turbo'?](artificial-intelligence/what-is-token-and-turbo.md)
 * [⚙ Today's learning--LangChain](artificial-intelligence/todays-learning-langchain/README.md)
