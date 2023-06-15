@@ -1,118 +1,28 @@
----
-description: step by step on how to generate your QR code with AI.
----
+# ⚙ Midjourney vs Stable Diffusion
 
-# ⚙ Creative QR Codes with ControlNet
+Midjourney is a web service that makes stunning AI pictures using words. It is similar to Stable Diffusion, but there are some differences. Midjourney can only be used on the internet, and you have to pay for it.&#x20;
 
-{% hint style="info" %}
-reference: [https://stable-diffusion-art.com/qr-code/#Japanese\_girl](https://stable-diffusion-art.com/qr-code/#Japanese\_girl)
-{% endhint %}
+Unlike Midjourney, there are multiple ways to use Stable Diffusion, such as using AUTOMATIC1111, A popular GUI for Stable Diffusion.
 
-## **Table of contents**
+## What is GUI?
 
-* <mark style="color:blue;">Step 1:</mark> Clone a project from GitHub
-* <mark style="color:blue;">Step 2:</mark> Open with GitHub Desktop. Click "Clone"
-* <mark style="color:blue;">Step 3:</mark> Install some "Plug-in-board", such as "resource"
-* <mark style="color:blue;">Step 4:</mark> Cick terminal input"make prepare" -->"enter"
-* <mark style="color:blue;">Step 5:</mark> In termal, input"make run" -->"enter"
-* <mark style="color:blue;">Step 6:</mark> Go to img2img to finish the steps.
+{% embed url="https://blog.hubspot.com/website/what-is-gui" %}
 
+A graphical user interface(GUI) is a type of user interface that allows users to interact with electronic devices through graphical icons and audio indicators, instead of text-based UIs or typed command labels. GUIs were introduced in response to the perceived difficulty of command-line interfaces(CLIs), which require users to type commands on a computer keyboard.
 
+GUIs use visual elements, such as icons, buttons, and menus, to represent actions that users can take and information that is relevant to them.
 
-## 1.Clone a project from GitHub
+GUIs can be used with a variety of input devices, such as a mouse, keyboard, touch screen, or voice commands.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 2.39.58 pm.png" alt=""><figcaption></figcaption></figure>
+GUIs are now the default for nearly every commercial digital product, from personal computers and mobile devices to TVs, gaming consoles, and refrigerators.
 
-## 2.Open with GitHub Desktop. Click "Clone"
+The ultimate purpose of GUIs is to allow humans to interact with a device’s underlying code by separating us from the technical details and presenting a simplified interface to the user. This process is called abstraction and is a key concept when designing and building interfaces.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 2.41.03 pm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-## 3.Install some "Plug-in-board", such as "resource".
+Often, different GUIs are layers inside each other. For example, if streaming music using Spotify in your web browser, you are working with the Spotify web app GUI(in orange below), which is inside the Google Chrome browser GUI(in green), which is inside your Mac's operating system GUI(in bule).
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 2.46.58 pm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-## 4.Cick terminal input"make prepare" -->"enter"
+## Show the comparison between Stable Diffusion and Midjourney
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 3.37.10 pm.png" alt=""><figcaption></figcaption></figure>
-
-## 5.In termal, input"make run" -->"enter"
-
-Then it will generate a URL like: _http://127.0.0.1:7860, click it to go to_ stable diffusion_._
-
-## 6.Go to img2img
-
-Here are the prompt of Mechanical girl:
-
-**prompt**: 1mechanical girl,ultra realistic details, portrait, global illumination, shadows, octane render, 8k, ultra sharp,intricate, ornaments detailed, cold colors, metal, egypician detail, highly intricate details, realistic light, trending on cgsociety, glowing eyes, facing camera, neon details, machanical limbs,blood vessels connected to tubes,mechanical vertebra attaching to back,mechanical cervial attaching to neck,sitting,wires and cables connecting to head
-
-**negative prompt**: ugly, disfigured, low quality, blurry
-
-**Upload the QR code to the img2img canvas.**
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 3.51.47 pm.png" alt=""><figcaption></figcaption></figure>
-
-Enter the following image-to-image settings.
-
-* **Resize mode**: Just resize
-* **Sampling method**: DPM++2M Karras
-* **Sampling step**: 50
-* **Width**: 768
-* **Height**: 768
-* **CFG Scale**: 7
-* **Denoising strength**: 0.75
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 3.54.32 pm.png" alt=""><figcaption></figcaption></figure>
-
-**Upload the QR code to ControlNet‘s image canvas.**
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 3.55.32 pm.png" alt=""><figcaption></figcaption></figure>
-
-**Enter the following ControlNet settings.**
-
-* **Enable**: Yes
-* **Control Type**: Tile
-* **Preprocessor**: tile\_resample
-* **Model**: control\_xxx\_tile
-* **Control Weight**: 0.87
-* **Starting Control Step**: 0.23
-* **Ending Control Step**: 0.9
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-12 at 3.56.52 pm.png" alt=""><figcaption></figcaption></figure>
-
-Press **Generate**. -->click"save" -->click"download"
-
-When you are successful, click termal in VS Code, then "control + C" to finish the working.
-
-Here are our outputs. High five\~\~\~
-
-<div>
-
-<figure><img src="../../.gitbook/assets/00001-4244295426.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/00002-725946248.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-## Below are images that generated by stable diffusion.
-
-<div>
-
-<figure><img src="../../.gitbook/assets/00002-1015468391.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/00005-1015468454.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../../.gitbook/assets/00004-584098645.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/00006-1015468454.png" alt=""><figcaption></figcaption></figure>
-
-</div>
