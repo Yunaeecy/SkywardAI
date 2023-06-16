@@ -1,4 +1,4 @@
-# 🪱 Split and Strip in Python
+# 🐍 Split and Strip in Python
 
 'split()' is a method that is used to split a string into a list of substrings based on a specified separator. By default, the separator is any whitespace character, such as a space or a tab. Here is an example of how to use the 'split()' method in Python.
 

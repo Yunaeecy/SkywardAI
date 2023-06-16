@@ -1,4 +1,4 @@
-# 🪱 Today's learning--Pylint
+# 🐍 Today's learning--Pylint
 
 ## Concept of Pylint
 
