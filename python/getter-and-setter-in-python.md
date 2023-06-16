@@ -36,7 +36,7 @@ print(raj.get_age())
 print(raj._age)
 ```
 
-It is typically used to provide read-only access to an attribute, meaning that the value of the attribute cannot be changed directly. Getter methods are defined using the `@property` decorator in Python.
+A **getter method** is used to retrieve the value of an attribute or property of an object. It is typically used to provide **read-only access to an attribute**, meaning that **the value of the attribute cannot be changed directly**. Getter methods are defined using the `@property` decorator in Python.
 
-A setter method, on the other hand, is used to change the value of an attribute or property of an object[1](https://stackoverflow.com/questions/2627002/whats-the-pythonic-way-to-use-getters-and-setters)[2](https://www.geeksforgeeks.org/getter-and-setter-in-python/)[3](https://realpython.com/python-getter-setter/)[4](https://python-reference.readthedocs.io/en/latest/docs/property/setter.html)[5](https://www.tutorialspoint.com/getter-and-setter-in-python). It is typically used to provide write-only access to an attribute, meaning that the value of the attribute can be changed but not read. Setter methods are defined using the `@<attribute>.setter` decorator in Python.
+A **setter method**, on the other hand, is used to **change the value of an attribute** or property of an object[1](https://stackoverflow.com/questions/2627002/whats-the-pythonic-way-to-use-getters-and-setters)[2](https://www.geeksforgeeks.org/getter-and-setter-in-python/)[3](https://realpython.com/python-getter-setter/)[4](https://python-reference.readthedocs.io/en/latest/docs/property/setter.html)[5](https://www.tutorialspoint.com/getter-and-setter-in-python). It is typically used to provide write-only access to an attribute, meaning that the value of the attribute **can be changed but not read.** Setter methods are defined using the `@<attribute>.setter` decorator in Python.
 
