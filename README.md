@@ -30,4 +30,26 @@ Often, different GUIs are layers inside each other. For example, if streaming mu
 
 <figure><img src=".gitbook/assets/Capture.PNG" alt=""><figcaption></figcaption></figure>
 
-##
+### Which one should I use?
+
+**Midjourney is for you if**
+
+* You want to generate stunning images without a deep learning curve.
+* You are busy and cannot afford the time to set up and learn the models.
+* You like the Midjourney styles.
+* You are looking for an out-of-box AI image solution.
+* You don’t mind paying a subscription fee.
+* You are ok with their terms of use.
+
+**Stable Diffusion is for you if**
+
+* You want a completely free solution.
+* You want to run everything locally.
+* You are tech-savvy.
+* You like tinkering with your setup, trying out model combinations, and using new tools.
+* You need the image-editing capability.
+* You prefer open-source tools.
+* You want more control over your images.
+
+\
+\
