@@ -31,6 +31,8 @@
 * [🪱 argument & parameter](python/argument-and-parameter.md)
 * [🪱 "{:.2f}"](.2f.md)
 * [🪱 Today's learning--Pylint](todays-learning-pylint.md)
+* [🪱 Split and Strip in Python](python/split-and-strip-in-python.md)
+* [Page 1](python/page-1.md)
 
 ## 💞 Mark something that easily to forget
 
