@@ -17,8 +17,8 @@
 * [⚙ What is Cohere playground?](what-is-cohere-playground.md)
 * [⚙ DALL-E](artificial-intelligence/dall-e.md)
 * [⚙ How to use AI to learn something that you don't know?](how-to-use-ai-to-learn-something-that-you-dont-know.md)
-* [🍒 What is hashtag#?](artificial-intelligence/what-is-hashtag.md)
 * [⚙ Page 1](artificial-intelligence/page-1.md)
+* [🍒 What is hashtag#?](artificial-intelligence/what-is-hashtag.md)
 
 ## 💞 GitHub
 
