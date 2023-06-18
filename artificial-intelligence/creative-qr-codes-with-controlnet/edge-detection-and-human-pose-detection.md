@@ -14,7 +14,7 @@ Using the Canny edge detector, an image containing the detected edges is then sa
 
 
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Difference between using Canny edge detection and Openpose?
 

@@ -18,11 +18,11 @@ GUIs are now the default for nearly every commercial digital product, from perso
 
 The ultimate purpose of GUIs is to allow humans to interact with a device’s underlying code by separating us from the technical details and presenting a simplified interface to the user. This process is called abstraction and is a key concept when designing and building interfaces.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Often, different GUIs are layers inside each other. For example, if streaming music using Spotify in your web browser, you are working with the Spotify web app GUI(in orange below), which is inside the Google Chrome browser GUI(in green), which is inside your Mac's operating system GUI(in bule).
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Show the comparison between Stable Diffusion and Midjourney
 
