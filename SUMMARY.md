@@ -35,6 +35,7 @@
 * [🐍 Split and Strip in Python](python/split-and-strip-in-python.md)
 * [🐍 Getter and Setter in Python](python/getter-and-setter-in-python.md)
 * [🐍 Timeit in Python](python/timeit-in-python.md)
+* [🐍 import json in Python](python/import-json-in-python.md)
 
 ## 💞 Mark something that easily to forget
 
