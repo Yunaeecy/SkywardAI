@@ -2,7 +2,7 @@
 description: json = JavaScript Object Notation
 ---
 
-# 🐍 import json in Python
+# 🐍 "import json" in Python
 
 In Python, `import json` is a statement that allows you to work with JSON (JavaScript Object Notation) data. JSON is a lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate[1](https://www.simplilearn.com/tutorials/python-tutorial/json-python)[2](https://realpython.com/lessons/what-is-json/).Python has a built-in package called `json` that provides methods for encoding and decoding JSON data. The `json` package can be used to convert JSON data to Python objects and vice versa.
 
