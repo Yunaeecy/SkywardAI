@@ -8,13 +8,13 @@ import timeit
 
 
 # Write the setup code
-setup_code = """"
+setup_code = """
 name = "Pylenin"
 result_list = []
 """
 
 # Write your main code
-main_code = """"
+main_code = """
 for char in name:
     result_list.append(char)
 """
@@ -27,3 +27,4 @@ print(timeit.timeit(stmt=main_code,
 ```
 ````
 
+{% embed url="https://www.pylenin.com/blogs/python-timeit-module/" %}
