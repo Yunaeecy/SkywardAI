@@ -26,8 +26,6 @@ Often, different GUIs are layers inside each other. For example, if streaming mu
 
 ## Show the comparison between Stable Diffusion and Midjourney
 
-Credit:
-
 {% embed url="https://stable-diffusion-art.com/midjourney-vs-stable-diffusion/" %}
 
 <figure><img src=".gitbook/assets/Capture.PNG" alt=""><figcaption></figcaption></figure>
@@ -53,5 +51,7 @@ Credit:
 * You prefer open-source tools.
 * You want more control over your images.
 
-\
-\
+## Credit:
+
+[https://stable-diffusion-art.com/midjourney-vs-stable-diffusion/](https://stable-diffusion-art.com/midjourney-vs-stable-diffusion/)[\
+](https://stable-diffusion-art.com/midjourney-vs-stable-diffusion/)\
