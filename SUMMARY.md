@@ -36,7 +36,7 @@
 * [🐍 Getter and Setter in Python](python/getter-and-setter-in-python.md)
 * [🐍 Timeit in Python](python/timeit-in-python.md)
 * [🐍 "import json" in Python](python/import-json-in-python.md)
-* [🐍 Page 2](python/page-2.md)
+* [🐍 Open CSV file in Python](python/page-2.md)
 
 ## 💞 Mark something that easily to forget
 
@@ -45,7 +45,7 @@
 
 ## 💞 VS Code
 
-* [✖ Install a project  in VS Code](<README (2).md>)
+* [✖ Install a project in VS Code](<README (2).md>)
 * [✖ What should do after editing the code of one branch?](what-should-do-after-editing-the-code-of-one-branch.md)
 * [✖ How to create a branch in VS code?](<README (1).md>)
 * [✖ How to debug?](how-to-debug.md)
