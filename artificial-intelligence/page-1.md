@@ -17,3 +17,9 @@ A pipeline is a set of processing steps that covert an input to an output. In IT
 * Popular Tools: Some popular tools for building and managing pipelines include Hugging Face, pipeline.ai, and GitHub. These tools offer a variety of features and integrations to suit different needs and preferences.
 
 Overall, pipelines are an important tool for automating and streaming complex processes in IT, particularly in the context of machine learning and natural language processing. When choosing a pipeline, it is important to consider factors such as the type of pipeline, the benefits, and available tools and integrations.
+
+## Credit
+
+{% embed url="https://huggingface.co/docs/diffusers/tutorials/tutorial_overview" %}
+
+{% embed url="https://www.mystic.ai/blog/deploy-a-stable-diffusion-pipeline" %}
