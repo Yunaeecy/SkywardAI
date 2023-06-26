@@ -18,6 +18,29 @@ A pipeline is a set of processing steps that covert an input to an output. In IT
 
 Overall, pipelines are an important tool for automating and streaming complex processes in IT, particularly in the context of machine learning and natural language processing. When choosing a pipeline, it is important to consider factors such as the type of pipeline, the benefits, and available tools and integrations.
 
+## Load community pipelines
+
+Community pipelines are any [DiffusionPipeline](https://huggingface.co/docs/diffusers/v0.17.1/en/api/diffusion\_pipeline#diffusers.DiffusionPipeline) class that are different from the original implementation as specified in their paper (for example, the [StableDiffusionControlNetPipeline](https://huggingface.co/docs/diffusers/v0.17.1/en/api/pipelines/controlnet#diffusers.StableDiffusionControlNetPipeline) corresponds to the [Text-to-Image Generation with ControlNet Conditioning](https://arxiv.org/abs/2302.05543) paper). They provide additional functionality or extend the original implementation of a pipeline.
+
+There are many cool community pipelines like [Speech to Image](https://github.com/huggingface/diffusers/tree/main/examples/community#speech-to-image) or [Composable Stable Diffusion](https://github.com/huggingface/diffusers/tree/main/examples/community#composable-stable-diffusion), and you can find all the official community pipelines [here](https://github.com/huggingface/diffusers/tree/main/examples/community).
+
+To load any community pipeline on the Hub, pass the repository id of the community pipeline to the `custom pipeline` argument and the model repository where you’d like to load the pipeline weights and components from.
+
+As a class method, [DiffusionPipeline.from\_pretrained()](https://huggingface.co/docs/diffusers/v0.17.1/en/api/diffusion\_pipeline#diffusers.DiffusionPipeline.from\_pretrained) is responsible for two things:
+
+* Download the latest version of the folder structure required for inference and cache it. If the latest folder structure is available in the local cache, [DiffusionPipeline.from\_pretrained()](https://huggingface.co/docs/diffusers/v0.17.1/en/api/diffusion\_pipeline#diffusers.DiffusionPipeline.from\_pretrained) reuses the cache and won’t redownload the files.
+* Load the cached weights into the correct pipeline [class](https://huggingface.co/docs/diffusers/using-diffusers/api/pipelines/overview#diffusers-summary) - retrieved from the `model_index.json` file - and return an instance of it.
+
+The pipelines underlying folder structure corresponds directly with their class instances. For example, the [StableDiffusionPipeline](https://huggingface.co/docs/diffusers/v0.17.1/en/api/pipelines/stable\_diffusion/text2img#diffusers.StableDiffusionPipeline) corresponds to the folder structure in [`runwayml/stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5).
+
+```python
+from diffusers import DiffusionPipeline
+
+repo_id = "runwayml/stable-diffusion-v1-5"
+pipeline = DiffusionPipeline.from_pretrained(repo_id)
+print(pipeline)
+```
+
 ## Credit
 
 {% embed url="https://huggingface.co/docs/diffusers/tutorials/tutorial_overview" %}
