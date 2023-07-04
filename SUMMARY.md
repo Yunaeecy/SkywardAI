@@ -37,6 +37,7 @@
 * [🐍 Timeit in Python](python/timeit-in-python.md)
 * [🐍 "import json" in Python](python/import-json-in-python.md)
 * [🐍 Open CSV file in Python](python/page-2.md)
+* [🐍 print(f"An error occurred: {e}")](python/print-f-an-error-occurred-e.md)
 
 ## 💞 Mark something that easily to forget
 
