@@ -19,6 +19,7 @@
 * [⚙ How to use AI to learn something that you don't know?](how-to-use-ai-to-learn-something-that-you-dont-know.md)
 * [⚙ Diffusers](artificial-intelligence/page-1.md)
 * [🍒 What is hashtag#?](artificial-intelligence/what-is-hashtag.md)
+* [🍡 Java concept of assignment 1](artificial-intelligence/java-concept-of-assignment-1.md)
 
 ## 💞 GitHub
 
