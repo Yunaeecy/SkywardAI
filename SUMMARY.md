@@ -21,6 +21,8 @@
 * [🍒 What is hashtag#?](artificial-intelligence/what-is-hashtag.md)
 * [🍡 Java concept of assignment 1](artificial-intelligence/java-concept-of-assignment-1.md)
 * [🍡 ArrayList & LinkedList](artificial-intelligence/arraylist-and-linkedlist.md)
+* [🍡 serializable](artificial-intelligence/serializable.md)
+* [🍡 iterator](artificial-intelligence/iterator.md)
 
 ## 💞 GitHub
 
