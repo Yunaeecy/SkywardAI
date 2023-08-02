@@ -20,6 +20,7 @@
 * [⚙ Diffusers](artificial-intelligence/page-1.md)
 * [🍒 What is hashtag#?](artificial-intelligence/what-is-hashtag.md)
 * [🍡 Java concept of assignment 1](artificial-intelligence/java-concept-of-assignment-1.md)
+* [🍡 ArrayList & LinkedList](artificial-intelligence/arraylist-and-linkedlist.md)
 
 ## 💞 GitHub
 
