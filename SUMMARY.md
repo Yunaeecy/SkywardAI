@@ -23,6 +23,7 @@
 * [🍡 ArrayList & LinkedList](artificial-intelligence/arraylist-and-linkedlist.md)
 * [🍡 serializable](artificial-intelligence/serializable.md)
 * [🍡 iterator](artificial-intelligence/iterator.md)
+* [🍡 assertFalse(App.checkInputNumber(1,0))](artificial-intelligence/assertfalse-app.checkinputnumber-1-0.md)
 
 ## 💞 GitHub
 
