@@ -26,6 +26,7 @@
 * [🍡 assertFalse(App.checkInputNumber(1,0))](artificial-intelligence/assertfalse-app.checkinputnumber-1-0.md)
 * [🉑 two types of group work](artificial-intelligence/two-types-of-group-work.md)
 * [🍡 Java Database Connectivity](artificial-intelligence/java-database-connectivity.md)
+* [🍡 HashSet](artificial-intelligence/hashset.md)
 
 ## 💞 GitHub
 
