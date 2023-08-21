@@ -27,6 +27,7 @@
 * [🉑 two types of group work](artificial-intelligence/two-types-of-group-work.md)
 * [🍡 Java Database Connectivity](artificial-intelligence/java-database-connectivity.md)
 * [🍡 HashSet](artificial-intelligence/hashset.md)
+* [🐝 Week6\_APD](artificial-intelligence/week6\_apd.md)
 
 ## 💞 GitHub
 
