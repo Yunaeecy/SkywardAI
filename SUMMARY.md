@@ -28,6 +28,7 @@
 * [🍡 Java Database Connectivity](artificial-intelligence/java-database-connectivity.md)
 * [🍡 HashSet](artificial-intelligence/hashset.md)
 * [🐝 Week6\_APD](artificial-intelligence/week6\_apd.md)
+* [🍡 Week6\_Java](artificial-intelligence/week6\_java.md)
 
 ## 💞 GitHub
 
