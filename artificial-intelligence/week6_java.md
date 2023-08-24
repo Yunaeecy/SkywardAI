@@ -34,3 +34,11 @@ Some key properties of Java interfaces:
 * An interface can extend other interfaces
 
 So in summary, interfaces define a contract that implementing classes must follow. This allows for abstraction and polymorphism.
+
+<mark style="color:blue;">**week6\_java\_tutorial**</mark>
+
+maturals is in week9's lecture
+
+tutorial week10: java database: everytime you make some changes. You should go to database(sql) to file->write change
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-24 at 6.35.14 pm.png" alt=""><figcaption></figcaption></figure>
