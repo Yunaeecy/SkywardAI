@@ -91,3 +91,5 @@ public boolean canConstruct(String ransomNote, String magazine) {
     return true;
 }
 ```
+
+In the context of the given code, `char c` is a variable that represents a single character in a string. The variable `c` is used to iterate through each character in the `ransomNote` and `magazine` strings.
