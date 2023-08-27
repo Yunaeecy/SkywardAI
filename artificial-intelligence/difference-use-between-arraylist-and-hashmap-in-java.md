@@ -93,3 +93,5 @@ public boolean canConstruct(String ransomNote, String magazine) {
 ```
 
 In the context of the given code, `char c` is a variable that represents a single character in a string. The variable `c` is used to iterate through each character in the `ransomNote` and `magazine` strings.
+
+The `toCharArray()` method is a built-in function in Java that is used to convert a string to a character array. When this method is called on a string, it returns a newly formed character array with a length equal to the given string and with the characters in the given string initialized as its contents. The returned array length is equal to the length of the string. This method is an instance method of the String class and does not accept any parameter. It is useful when we want to convert a string to a character array without writing any custom code. The `toCharArray()` method is used in the given code to convert the `magazine` and `ransomNote` strings to character arrays so that we can iterate through each character in the strings using a for-each loop.
