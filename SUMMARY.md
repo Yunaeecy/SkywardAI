@@ -30,6 +30,7 @@
 * [🐝 Week6\_APD](artificial-intelligence/week6\_apd.md)
 * [🍡 Week6\_Java](artificial-intelligence/week6\_java.md)
 * [🍡 difference use between ArrayList and HashMap in Java](artificial-intelligence/difference-use-between-arraylist-and-hashmap-in-java.md)
+* [🦋 API](artificial-intelligence/api.md)
 
 ## 💞 GitHub
 
