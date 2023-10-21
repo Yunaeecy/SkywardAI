@@ -2,6 +2,8 @@
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-21 at 5.34.28 pm.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Yuna Sheng - Data Visualization.png" alt=""><figcaption></figcaption></figure>
+
 * **Trends** - A trend is defined as a pattern of change.
   * `sns.lineplot` - **Line charts** are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group.
 * **Relationship** - There are many different chart types that you can use to understand relationships between variables in your data.
