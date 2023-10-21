@@ -54,6 +54,11 @@
 * [🐍 print(f"An error occurred: {e}")](python/print-f-an-error-occurred-e.md)
 * [🐍 Page 1](python/page-1.md)
 
+## 💞 DataVisualization
+
+* [🪅 How to choose plot type](datavisualization/how-to-choose-plot-type.md)
+* [🪅 Page 1](datavisualization/page-1.md)
+
 ## 💞 Mark something that easily to forget
 
 * [🙉 Mark something](mark-something.md)
