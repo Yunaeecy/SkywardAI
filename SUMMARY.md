@@ -20,16 +20,14 @@
 * [⚙ Diffusers](artificial-intelligence/page-1.md)
 * [🍒 What is hashtag#?](artificial-intelligence/what-is-hashtag.md)
 * [🍡 Java concept of assignment 1](artificial-intelligence/java-concept-of-assignment-1.md)
-* [🍡 ArrayList & LinkedList](artificial-intelligence/arraylist-and-linkedlist.md)
 * [🍡 serializable](artificial-intelligence/serializable.md)
 * [🍡 iterator](artificial-intelligence/iterator.md)
-* [🍡 assertFalse(App.checkInputNumber(1,0))](artificial-intelligence/assertfalse-app.checkinputnumber-1-0.md)
+* [🍡 assertFalse(App.checkInputNumber(1,0))](artificial-intelligence/assertfalse-app.checkinputnumber-1-0/README.md)
+  * [🍡 HashSet](artificial-intelligence/assertfalse-app.checkinputnumber-1-0/hashset.md)
 * [🉑 two types of group work](artificial-intelligence/two-types-of-group-work.md)
-* [🍡 Java Database Connectivity](artificial-intelligence/java-database-connectivity.md)
-* [🍡 HashSet](artificial-intelligence/hashset.md)
 * [🐝 Week6\_APD](artificial-intelligence/week6\_apd.md)
 * [🍡 Week6\_Java](artificial-intelligence/week6\_java.md)
-* [🍡 difference use between ArrayList and HashMap in Java](artificial-intelligence/difference-use-between-arraylist-and-hashmap-in-java.md)
+* [🍡 ArrayList & LinkedList](artificial-intelligence/arraylist-and-linkedlist.md)
 * [🦋 API](artificial-intelligence/api.md)
 * [🔢 An article for leetcode](artificial-intelligence/an-article-for-leetcode.md)
 * [🎼 BFF](artificial-intelligence/bff.md)
@@ -45,10 +43,10 @@
 
 * [🐍 argument & parameter](python/argument-and-parameter.md)
 * [🐍 "{:.2f}"](.2f.md)
+* [🐍 Timeit in Python](python/timeit-in-python.md)
 * [🐍 Today's learning--Pylint](todays-learning-pylint.md)
 * [🐍 Split and Strip in Python](python/split-and-strip-in-python.md)
 * [🐍 Getter and Setter in Python](python/getter-and-setter-in-python.md)
-* [🐍 Timeit in Python](python/timeit-in-python.md)
 * [🐍 "import json" in Python](python/import-json-in-python.md)
 * [🐍 Open CSV file in Python](python/page-2.md)
 * [🐍 print(f"An error occurred: {e}")](python/print-f-an-error-occurred-e.md)
@@ -58,6 +56,12 @@
 
 * [🪅 How to choose plot type](datavisualization/how-to-choose-plot-type.md)
 * [🪅 Page 1](datavisualization/page-1.md)
+
+## 💞 Java
+
+* [🍡 difference use between ArrayList and HashMap in Java](java/difference-use-between-arraylist-and-hashmap-in-java.md)
+* [🪅 How to choose plot type](java/how-to-choose-plot-type.md)
+* [🪅 Page 1](java/page-1.md)
 
 ## 💞 Mark something that easily to forget
 
