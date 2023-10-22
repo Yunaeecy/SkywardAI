@@ -57,10 +57,13 @@
 * [🪅 How to choose plot type](datavisualization/how-to-choose-plot-type.md)
 * [🪅 Page 1](datavisualization/page-1.md)
 
+## 💞 DataCleaning
+
+* [🪅 Some basic code of data\_cleaning](datacleaning/some-basic-code-of-data\_cleaning.md)
+
 ## 💞 Java
 
 * [🍡 difference use between ArrayList and HashMap in Java](java/difference-use-between-arraylist-and-hashmap-in-java.md)
-* [🪅 How to choose plot type](java/how-to-choose-plot-type.md)
 * [🪅 Page 1](java/page-1.md)
 
 ## 💞 Mark something that easily to forget
