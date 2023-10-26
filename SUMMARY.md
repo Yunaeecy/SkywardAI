@@ -19,14 +19,11 @@
 * [⚙ How to use AI to learn something that you don't know?](how-to-use-ai-to-learn-something-that-you-dont-know.md)
 * [⚙ Diffusers](artificial-intelligence/page-1.md)
 * [🍒 What is hashtag#?](artificial-intelligence/what-is-hashtag.md)
-* [🍡 Java concept of assignment 1](artificial-intelligence/java-concept-of-assignment-1.md)
-* [🍡 serializable](artificial-intelligence/serializable.md)
 * [🍡 iterator](artificial-intelligence/iterator.md)
 * [🍡 assertFalse(App.checkInputNumber(1,0))](artificial-intelligence/assertfalse-app.checkinputnumber-1-0/README.md)
   * [🍡 HashSet](artificial-intelligence/assertfalse-app.checkinputnumber-1-0/hashset.md)
 * [🉑 two types of group work](artificial-intelligence/two-types-of-group-work.md)
 * [🐝 Week6\_APD](artificial-intelligence/week6\_apd.md)
-* [🍡 Week6\_Java](artificial-intelligence/week6\_java.md)
 * [🍡 ArrayList & LinkedList](artificial-intelligence/arraylist-and-linkedlist.md)
 * [🦋 API](artificial-intelligence/api.md)
 * [🔢 An article for leetcode](artificial-intelligence/an-article-for-leetcode.md)
@@ -65,6 +62,9 @@
 
 * [🍡 difference use between ArrayList and HashMap in Java](java/difference-use-between-arraylist-and-hashmap-in-java.md)
 * [🪅 Page 1](java/page-1.md)
+* [🍡 Java concept of assignment 1](java/java-concept-of-assignment-1.md)
+* [🍡 Week6\_Java](java/week6\_java.md)
+* [🍡 serializable](java/serializable.md)
 
 ## 💞 Mark something that easily to forget
 
