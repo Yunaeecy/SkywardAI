@@ -18,12 +18,6 @@
 * [⚙ DALL-E](artificial-intelligence/dall-e.md)
 * [⚙ How to use AI to learn something that you don't know?](how-to-use-ai-to-learn-something-that-you-dont-know.md)
 * [⚙ Diffusers](artificial-intelligence/page-1.md)
-* [🍒 What is hashtag#?](artificial-intelligence/what-is-hashtag.md)
-* [🉑 two types of group work](artificial-intelligence/two-types-of-group-work.md)
-* [🐝 Week6\_APD](artificial-intelligence/week6\_apd.md)
-* [🦋 API](artificial-intelligence/api.md)
-* [🔢 An article for leetcode](artificial-intelligence/an-article-for-leetcode.md)
-* [🎼 BFF](artificial-intelligence/bff.md)
 
 ## 💞 GitHub
 
@@ -31,6 +25,15 @@
 * [✅ How to edit code?](how-to-edit-code.md)
 * [✅ How to use GitHub Desktop](<README (1) (1).md>)
 * [✅ How to review in GutHub?](how-to-review-in-guthub.md)
+
+## 💞 Need to remember
+
+* [🔢 An article for leetcode](need-to-remember/an-article-for-leetcode.md)
+* [🉑 two types of group work](need-to-remember/two-types-of-group-work.md)
+* [🍒 What is hashtag#?](need-to-remember/what-is-hashtag.md)
+* [🐝 Week6\_APD](need-to-remember/week6\_apd.md)
+* [🦋 API](need-to-remember/api.md)
+* [🎼 BFF](need-to-remember/bff.md)
 
 ## 💞 Python
 
