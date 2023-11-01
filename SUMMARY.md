@@ -26,6 +26,10 @@
 * [✅ How to use GitHub Desktop](<README (1) (1).md>)
 * [✅ How to review in GutHub?](how-to-review-in-guthub.md)
 
+## 💞 Lastest concepts for me
+
+* [🪅 Pandas DataFrame](lastest-concepts-for-me/pandas-dataframe.md)
+
 ## 💞 Need to remember
 
 * [🔢 An article for leetcode](need-to-remember/an-article-for-leetcode.md)
