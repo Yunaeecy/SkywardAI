@@ -50,7 +50,6 @@
 * [🐍 "import json" in Python](python/import-json-in-python.md)
 * [🐍 Open CSV file in Python](python/page-2.md)
 * [🐍 print(f"An error occurred: {e}")](python/print-f-an-error-occurred-e.md)
-* [🐍 Page 1](python/page-1.md)
 
 ## 💞 DataVisualization
 
