@@ -29,6 +29,7 @@
 ## 💞 Lastest concepts for me
 
 * [🪅 Pandas DataFrame](lastest-concepts-for-me/pandas-dataframe.md)
+* [🪅 Choosing between loc and iloc](lastest-concepts-for-me/choosing-between-loc-and-iloc.md)
 
 ## 💞 Need to remember
 
