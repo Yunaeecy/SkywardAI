@@ -18,6 +18,7 @@
 * [⚙ DALL-E](artificial-intelligence/dall-e.md)
 * [⚙ How to use AI to learn something that you don't know?](how-to-use-ai-to-learn-something-that-you-dont-know.md)
 * [⚙ Diffusers](artificial-intelligence/page-1.md)
+* [Boosting Algorithms in machine learning, part  1:AdaBoost](artificial-intelligence/boosting-algorithms-in-machine-learning-part-1-adaboost.md)
 
 ## 💞 GitHub
 
