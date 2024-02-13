@@ -53,10 +53,14 @@
 * [🐍 Open CSV file in Python](python/page-2.md)
 * [🐍 print(f"An error occurred: {e}")](python/print-f-an-error-occurred-e.md)
 
+***
+
+* [Page](page.md)
+* [🪅 command-line](command-line.md)
+
 ## 💞 DataVisualization
 
 * [🪅 How to choose plot type](datavisualization/how-to-choose-plot-type.md)
-* [🪅 Page 1](datavisualization/page-1.md)
 
 ## 💞 DataCleaning
 
