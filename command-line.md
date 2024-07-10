@@ -41,7 +41,6 @@ make hello.c —>compile file from source code to machine code
 
 hello.c :5:5 —> means file hello.c line 5 character  5 has error
 
-\
 
 
 Single quote: single character,like ’n’
